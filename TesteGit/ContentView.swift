@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Good morning, world!")
             .padding()
     }
+    }
 }
 
 struct ContentView_Previews: PreviewProvider {
